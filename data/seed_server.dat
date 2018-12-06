@@ -1,0 +1,4 @@
+10.150.11.24    master_node
+10.150.11.25    slaver_node_1st
+10.150.26.87    slaver_node_2nd
+10.150.26.88    slaver_node_3rd
